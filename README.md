@@ -8,7 +8,7 @@ Opus 4.8 (1M context) | 128.4k/1000k (13%) | high
 5h 42%@3:15pm | 7d 61%@jul 12, 9:00am
 ```
 
-Example Status Line:
+**Example Status Line:**
 ![alt text](https://github.com/ByteSizedITGuy/Claude-Custom-StatusLine/blob/main/claude_status_example.png "Status Line Example")
 
 
