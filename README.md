@@ -3,14 +3,16 @@
 A two-line, color-coded status line for Claude Code that shows your context
 budget and your rate-limit windows at a glance.
 
+<p align="center">
+  <img src="claude_status_example.png"
+       alt="Two-line status line showing model, context used, effort level, and 5h/7d rate-limit windows"
+       width="560">
+</p>
+
 ```
 Opus 4.8 (1M context) | 128.4k/1000k (13%) | high
 5h 42%@3:15pm | 7d 61%@jul 12, 9:00am
 ```
-
-**Example Status Line:**
-![alt text](https://github.com/ByteSizedITGuy/Claude-Custom-StatusLine/blob/main/claude_status_example.png "Status Line Example")
-
 
 **Line 1 — working state**
 
@@ -38,7 +40,7 @@ placeholder so the status line never goes blank.
 
 ## Easiest install: hand it to Claude
 
-Unzip this folder, then in Claude Code say:
+Clone or download this repo, then in Claude Code say:
 
 > Read `INSTALL-WITH-CLAUDE.md` in this folder and set up my status line.
 
